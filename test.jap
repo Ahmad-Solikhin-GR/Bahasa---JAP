@@ -1,0 +1,7 @@
+insatsu("Hello world")
+INSATSU("Apa kabar?")
+
+NOTAME i = 0 NI 5 SOSHITE
+    insatsu("Baik")
+    insatsu("")
+SAISHU
